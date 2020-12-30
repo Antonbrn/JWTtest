@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{75DDBD63-5802-41F2-9AD1-081CC0AEA7F0}|Default">
+  <MonoDevelop.Ide.ItemProperties.JWTtest PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Startup.cs">
+    <Files>
+      <File FileName="Controllers/NameController.cs" Line="31" Column="15" />
+      <File FileName="Controllers/UserCred.cs" Line="6" Column="45" />
+      <File FileName="IJwtAuthManager.cs" Line="7" Column="6" />
+      <File FileName="JwtAuthManager.cs" Line="69" Column="10" />
+      <File FileName="Startup.cs" Line="49" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JWTtest" expanded="True">
+            <Node name="JWTtest" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
